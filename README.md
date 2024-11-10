@@ -1,7 +1,12 @@
 # School District Sierra Leone (SDSL)
 
-![School District Sierra Leone Dashboard](https://school.edu.sl/public/uploads/20241104/sdsl_dashboard.png)
+![School District Sierra Leone Dashboard](https://ai.peeap.com/public/uploads/20241110/45b65ef0c5894df0644096b905c7cb63.png)
 
+**login to the qcell school website **
+       ```https://qcell.gov.school.edu.sl
+       username: qcell@school.edu.sl
+       password: 1234567890
+       ```
 ---
 
 ## Introduction
@@ -13,10 +18,18 @@ Visit the live site: [School District Sierra Leone](https://school.edu.sl)
 ---
 
 ## Overview
+SDSL is a revolutionary cloud-based system designed to support and elevate educational management across Sierra Leone. Like Gmail’s streamlined account setup, SDSL empowers schools to quickly access a complete digital system by generating fully functional school websites and mobile applications in less than 5 minutes—all without additional costs to the schools or the government.
 
 SDSL provides a comprehensive solution for school administration, allowing for seamless management of student records, attendance, performance tracking, and WASSCE integration. This system empowers educators, administrators, and the Ministry of Education to make data-driven decisions for enhanced learning outcomes.
 
 ---
+Instant Setup: SDSL’s automated system allows schools to set up a website and mobile app within minutes. This is made possible through a user-friendly cloud platform that reduces the need for complex configurations or technical expertise, saving time and resources.
+
+Free Access: Built for public good, SDSL offers its services entirely free of charge, ensuring that all schools in Sierra Leone, regardless of size or funding, can access advanced digital tools without additional expenses.
+
+DSTI Collaboration: While SDSL was built with alignment to DSTI’s (Directorate of Science, Technology, and Innovation) goals, the platform itself was developed independently by Peeap Pay Limited. This independent development allows SDSL to cater to specific needs of Sierra Leone’s education system while following government standards.
+
+Visionary Leadership: The innovation behind SDSL comes from Peeap Pay Limited, with Mohamed Abass Kamara serving as the CEO and Mohamed Abdul Kabia as the CTO. Their leadership has driven the vision of making digital educational tools accessible and sustainable for schools across the country.
 
 ## Features
 
@@ -27,6 +40,10 @@ SDSL provides a comprehensive solution for school administration, allowing for s
 - **Ministry Dashboard**: The superadmin dashboard provides the Ministry of Education with complete oversight, allowing for data-backed decisions.
 - **Encrypted Student Data**: Ensures student privacy and integrity of academic records.
 - **API Integration**: Connect with other educational software and platforms for data interoperability.
+
+## Demo Video
+
+[Watch the Demo Video](https://path.to/your/video.mp4)
 
 ---
 
